@@ -1,2 +1,2 @@
 # Perfil
-Criei este perfil online para fim de experiência no desenvolvimento front-end, utilizando apenas HTML, CSS e um pouco de JavaScript para o Paralax
+Este perfil foi criado com a finalizade de obter mais experiência em desenvolvimento, e publicar algumas informações profissionais, foi utilizado apenas HTML, CSS e JavaScript.
